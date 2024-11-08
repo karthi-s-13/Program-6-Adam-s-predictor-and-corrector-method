@@ -16,11 +16,11 @@ Step 2: Get the values of $$x_0, y_0, x, y, x_2, y_2, x_3$$ and $$y_3$$
 
 Step 3: Compute $$h = x_1 - x_0$$
 
-Step 4: Compute $$y_{4}^{(p)} = y_3 + \frac({h}{24}) * (55f (x_3, y_3) - 59f(x_2, y_2) + 27f(x_1, y_1) - 9f (x_0, y_0))$$
+Step 4: Compute $$y_{4}^{(p)} = y_3 + \frac{h}{24} * (55f (x_3, y_3) - 59f(x_2, y_2) + 27f(x_1, y_1) - 9f (x_0, y_0))$$
 
   - $$x_4 = x_3 + h$$
 
-Step 5: Compute $$y_{4}^{(c)} = y_3 + \frac({h}{24}) * (9f(x_4, y_{4}^{(p)} + 19f (x_3, y_3) - 5f(x_2, y_2) + f(x_1, y_1))$$
+Step 5: Compute $$y_{4}^{(c)} = y_3 + \frac{h}{24} * (9f(x_4, y_{4}^{(p)} + 19f (x_3, y_3) - 5f(x_2, y_2) + f(x_1, y_1))$$
 
 Step 6: Print the value of $$y_{4}^{(c)}$$
 
