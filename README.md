@@ -2,8 +2,6 @@
 
 ## Question:
 
-Find y(1.4) , given that \frac{dy}{dx}
-
 Find $$y(1.4)$$ , given that $$\frac{dy}{dx} = x^2 (1 + y) , y(1) = 1 , y(1.1) = 1.233 , y(1.2) = 1.548$$ , and $$y(1.3) = 1.979$$ using Adam’s predictor and corrector method.
 
 ## Aim:
