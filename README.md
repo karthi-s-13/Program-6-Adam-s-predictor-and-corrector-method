@@ -1,4 +1,4 @@
-# Program-6: Adam's predictor and corrector method
+# Program 6: Adam's predictor and corrector method
 
 <br>
 
